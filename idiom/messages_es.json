@@ -1,0 +1,15 @@
+{
+  "commands": {
+    "economy": {
+      "balance": {
+        "message": "Tu saldo es de {balance} monedas.",
+        "error": "Ocurrió un error al obtener tu saldo."
+      }
+    },
+    "fun": {
+      "ping": {
+        "message": "¡Pong!"
+      }
+    }
+  }
+}

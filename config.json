@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://aaronfuentes:fuentes2@cluster0.b6mj6gg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "token": "MTAxODU1NDk5OTcxNTkyNjA1Ng.GuhX6P.OzW9EACls4hUskQq7OuMvO6YIrTnnItG-auBKM",
+    "clientId": "1018554999715926056",
+     "guildId": "1066110339822919743",
+    "clientSecret": "2eB4VAQ9zDz0CKTTkYRiAePru-xykGQe",
+    "callbackURL": "http://localhost:3000/auth/discord/callback",
+    "secretKey": "2da93567f63b464fa4c0ad9d42f1d1f82c149bf3f8 fa3b557ac15b03a6878c14afd071b45ef5da5e65b478c6bed60747198c9cb141632621164828265821087b"
+}
